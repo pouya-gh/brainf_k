@@ -81,5 +81,4 @@ fn main() {
 
     program = Program::new(code.into());
     program.run(false);
-    println!("");
 }
